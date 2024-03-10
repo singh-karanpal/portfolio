@@ -3,8 +3,10 @@
 #### Technical Skills: Deep Learning, Computer Vision, TensorFlow, LLMs, Generative AI, Google Cloud, AWS
 
 ## Education
-- Master of Data Science | The University of British Columbia, Vancouver Canada (_Nov 2020_)								       		
-- B.Tech, Computer Science(Business Analytics & Optimization) | University of Petroleum & Energy Studies, Dehradun India (_Jun 2016_)	 			        		
+
+Master of Data Science | The University of British Columbia, Vancouver Canada (_Nov 2020_)								       		
+
+B.Tech, Computer Science(Business Analytics & Optimization) | University of Petroleum & Energy Studies, Dehradun India (_Jun 2016_)	 			        		
 
 ## Work Experience
 **Sr. Data Scientist - Generative AI @ Belcarra (_Feb 2024 - Present_)**
