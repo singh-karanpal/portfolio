@@ -1,0 +1,8 @@
+title: Karanpal Singh
+logo: /assets/img/headshot.jpeg
+#description: text below image
+show_downloads: false
+github:
+  owner_url: https://github.com/singh-karanpal/datascience
+  repository_url: https://github.com/singh-karanpal/datascience
+theme: jekyll-theme-minimal
