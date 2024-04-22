@@ -8,9 +8,9 @@ Master of Data Science | The University of British Columbia, Vancouver Canada (_
 B.Tech, Computer Science(Business Analytics & Optimization) | University of Petroleum & Energy Studies, Dehradun India (_Jun 2016_)	 			        		
 
 ## Work Experience
-**Sr. Data Scientist - Generative AI @ Belcarra (_Feb 2024 - Present_)**
-- Fine-tuning text-to-text (Llama2) and text-to-image (Stable Diffusion) large models
-- Built RAG-based Chatbots for domain-specific QAs
+**Data Scientist @ TELUS Health (_Apr 2024 - Present_)**
+- Fine-tuning text-to-text models
+- Building RAG-enabled Chatbots
 
 **Sr. Data Engineer - AI/ML @ Lotlinx Inc. (_Jan 2022 - Jan 2024_)**
 - Built & deployed a TensorFlow model for car dealerships to predict how long cars will remain on the lot upon arrival, empowering dynamic budgeting and campaign optimization
