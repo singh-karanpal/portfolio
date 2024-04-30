@@ -10,7 +10,7 @@ B.Tech, Computer Science(Business Analytics & Optimization) | University of Petr
 ## Work Experience
 **Data Scientist @ TELUS Health (_Apr 2024 - Present_)**
 - Fine-tuning text-to-text models
-- Building RAG-enabled Chatbots
+- Building LLMs-enabled Chatbots
 
 **Sr. Data Engineer - AI/ML @ Lotlinx Inc. (_Jan 2022 - Jan 2024_)**
 - Built & deployed a TensorFlow model for car dealerships to predict how long cars will remain on the lot upon arrival, empowering dynamic budgeting and campaign optimization
