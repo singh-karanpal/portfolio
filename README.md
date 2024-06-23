@@ -8,7 +8,7 @@ Master of Data Science | The University of British Columbia, Vancouver Canada (_
 B.Tech, Computer Science(Business Analytics & Optimization) | University of Petroleum & Energy Studies, Dehradun India (_Jun 2016_)	 			        		
 
 ## Work Experience
-**Data Scientist @ TELUS Health (_Apr 2024 - Present_)**
+**Data Scientist - Generative AI @ TELUS Health (_Apr 2024 - Present_)**
 - Fine-tuning text-to-text models
 - Building LLMs-enabled Chatbots
 
