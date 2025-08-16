@@ -9,8 +9,11 @@ B.Tech, Computer Science(Business Analytics & Optimization) | University of Petr
 
 ## Work Experience
 **Data Scientist - Generative AI @ TELUS Health (_Apr 2024 - Present_)**
-- Fine-tuning text-to-text models
-- Building LLMs-enabled Chatbots
+- Leveraged Generative AI to process policies, medical records, and doctor notes, enabling rapid drafting of workplace injury claims for a Canadian province, reducing fraudulent claims and cutting processing time from hours to minutes.
+- Designed and deployed a Generative AI driven plan recommendation system to analyze public policy documents and deliver tailored plans for US state government clients, cutting turnaround time and boosting team productivity by 60%.
+- Developed a machine learning powered anomaly detection solution for pharmacy drug claims, automating identification and re-invoicing of irregular transactions and scaling weekly processing from thousands to millions, resulting in substantial cost savings.
+- Built an entity resolution engine powered by LLMs to unify customer identities across platforms, enabling cross-selling insights, identifying high-value leads, and increasing revenue through targeted outreach.
+- Led the migration of production Generative AI workflows from Palantir Foundry to Google Cloud Platform, architecting scalable cloud-native solutions meeting security and compliance standards.
 
 **Sr. Data Engineer - AI/ML @ Lotlinx Inc. (_Jan 2022 - Jan 2024_)**
 - Built & deployed a TensorFlow model for car dealerships to predict how long cars will remain on the lot upon arrival, empowering dynamic budgeting and campaign optimization
