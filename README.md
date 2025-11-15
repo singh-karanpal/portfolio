@@ -1,6 +1,7 @@
 # Data Scientist
+**Washington, United States**
 
-#### Technical Skills: Deep Learning, Computer Vision, TensorFlow, LLMs, Generative AI, Google Cloud, AWS, Palantir Foundry, Semantic Search. 
+#### Technical Skills: Machine Learning, Deep Learning, TensorFlow, LLMs, Generative AI, Google Cloud, AWS, Palantir Foundry, Semantic Search, Computer Vision. 
 
 ## Education
 
