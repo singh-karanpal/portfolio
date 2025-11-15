@@ -1,5 +1,9 @@
 # Data Scientist
-**Washington, United States**
+
+## Contact
+- 📧 Email: <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+- 🔗 LinkedIn: <{{ site.linkedin }}>
+- 📍 Location: {{ site.description }}
 
 #### Technical Skills: Machine Learning, Deep Learning, TensorFlow, LLMs, Generative AI, Google Cloud, AWS, Palantir Foundry, Semantic Search, Computer Vision. 
 
