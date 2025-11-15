@@ -1,14 +1,3 @@
-<!-- LEFT SIDEBAR CONTACT BLOCK (will appear under your photo in jekyll-theme-minimal) -->
-<div style="margin-top: -15px;">
-
-### 📫 Contact  
-- 📧 **Email:** [palsinghk@gmail.com](mailto:palsinghk@gmail.com)  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="14" style="margin-bottom:-2px"/> **LinkedIn:** [karanpal-singh](https://www.linkedin.com/in/karanpal-singh-35955695/)  
-- 📍 **Washington, United States**
-
-</div>
-
-
 # Data Scientist
 
 #### Technical Skills: Machine Learning, Deep Learning, TensorFlow, LLMs, Generative AI, Google Cloud, AWS, Palantir Foundry, Semantic Search, Computer Vision. 
