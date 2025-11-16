@@ -2,14 +2,10 @@
 
 #### Technical Skills: Machine Learning, Deep Learning, TensorFlow, LLMs, Generative AI, Google Cloud, AWS, Palantir Foundry, Semantic Search, Computer Vision. 
 
----
-
 ## Education
 
 Master's of Data Science | The University of British Columbia, Vancouver Canada (_Nov 2020_)								       		
 Bachelor's Computer Science (Specialization in Business Analytics & Optimization) | University of Petroleum & Energy Studies, Dehradun India (_Jun 2016_)	 			        		
-
----
 
 ## Work Experience
 **Data Scientist - Generative AI @ TELUS Health (_Apr 2024 - Present_)**
@@ -48,7 +44,6 @@ Bachelor's Computer Science (Specialization in Business Analytics & Optimization
 - Created Customer Segmentation for General Insurance clients to do targeted marketing
 Performed Enterprise Product Deployment
 
----
 
 ## Capstone
 ### Deep Learning Enabled Text Classification for Work Environment Surveys
@@ -57,8 +52,6 @@ Performed Enterprise Product Deployment
 [Github Repository](https://github.com/singh-karanpal/Capstone)
 
 Built Hierarchical Text Classifiers using Deep Learning to analyze open-ended questions of the Work Environment Survey conducted by BC Stats
-
----
 
 ## Projects
 ### Predicting Emoji's based on Text Emotion - Emotional Intelligence
@@ -70,7 +63,6 @@ Developed a Deep Learning solution to predict emoji's based on text emotions rat
 
 Used Multi-label Classification to create a product recommendation engine for an e-commerce business and implemented an discount rate optimization using operation research.
 
----
 
 ## Publications
 1. K. Singh, S. Sharma and I. Singh, "Assessment of determinants influencing customers adoption of network provider: An empirical study," 2015 1st International Conference on Next Generation Computing Technologies (NGCT), Dehradun, India, 2015, pp. 730-734, doi: 10.1109/NGCT.2015.7375217. [Available Here](https://ieeexplore.ieee.org/document/7375217?arnumber=7375217&reload=true&newsearch=true&searchWithin=%22First%20Name%22:Shivangnee&searchWithin=%22Last%20Name%22:Sharma)
