@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: Machine Learning, Deep Learning, TensorFlow, LLMs, Generative AI, Google Cloud, AWS, Palantir Foundry, Semantic Search, Computer Vision, ML Microservices.
+#### Technical Skills: Machine Learning, Deep Learning, TensorFlow, LLMs, Generative AI, Google Cloud, AWS, ML Microservices, Palantir Foundry, Semantic Search, Computer Vision.
 
 ## Education
 
