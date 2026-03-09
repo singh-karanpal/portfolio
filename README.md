@@ -18,7 +18,7 @@ Bachelor's Computer Science (Specialization in Business Analytics & Optimization
 - Built an entity resolution engine powered by LLMs to unify customer identities across platforms, enabling cross-selling insights, identifying high-value leads, and increasing revenue through targeted outreach.
 - Led the migration of production Generative AI workflows from Palantir Foundry to Google Cloud Platform, architecting scalable cloud-native solutions meeting security and compliance standards.
 
-**Sr. Data Engineer - AI/ML @ Lotlinx Inc. (_Jan 2022 - Jan 2024_)**
+**Senior Data Engineer - AI/ML @ Lotlinx Inc. (_Jan 2022 - Jan 2024_)**
 - Built & deployed a TensorFlow model for car dealerships to predict how long cars will remain on the lot upon arrival, empowering dynamic budgeting and campaign optimization
 - Used Google Vertex AI for the model deployments, version control and production endpoints
 - Designed & implemented a data processing pipeline using Apache Airflow
