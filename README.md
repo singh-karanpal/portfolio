@@ -1,4 +1,4 @@
-# Data Scientist
+# Senior Data Scientist - Oracle Cloud Infrastructure
 
 #### Technical Skills: Machine Learning, Deep Learning, TensorFlow, LLMs, Generative AI, Google Cloud, AWS, ML Microservices, Palantir Foundry, Semantic Search, Computer Vision.
 
@@ -8,7 +8,10 @@ Master's of Data Science | The University of British Columbia, Vancouver Canada 
 Bachelor's Computer Science (Specialization in Business Analytics & Optimization) | University of Petroleum & Energy Studies, Dehradun India (_Jun 2016_)	 			        		
 
 ## Work Experience
-**Data Scientist - Generative AI @ TELUS Health (_Apr 2024 - Present_)**
+**Senior Data Scientist @ Oracle (_Mar 2026 - Present_)**
+- Oracle AI at OCI.
+
+**Data Scientist - Generative AI @ TELUS Health (_Apr 2024 - Feb 2026_)**
 - Leveraged Generative AI to process policies, medical records, and doctor notes, enabling rapid drafting of workplace injury claims for a Canadian province, reducing fraudulent claims and cutting processing time from hours to minutes.
 - Designed and deployed a Generative AI driven plan recommendation system to analyze public policy documents and deliver tailored plans for US state government clients, cutting turnaround time and boosting team productivity by 60%.
 - Developed a machine learning powered anomaly detection solution for pharmacy drug claims, automating identification and re-invoicing of irregular transactions and scaling weekly processing from thousands to millions, resulting in substantial cost savings.
