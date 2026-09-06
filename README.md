@@ -1,6 +1,14 @@
 # Senior Data Scientist - Oracle Cloud Infrastructure
 
-#### Technical Skills: Machine Learning, Deep Learning, TensorFlow, LLMs, Generative AI, Google Cloud, AWS, ML Microservices, Palantir Foundry, Semantic Search, Computer Vision.
+#### Technical Skills: Machine Learning, Deep Learning, TensorFlow, LLMs, Generative AI, PEFT/LoRA, RAG, LangChain, Google Cloud, AWS, ML Microservices, Palantir Foundry, Semantic Search, Computer Vision.
+
+## About
+
+Senior Data Scientist at Oracle, working on the analytics and ML layer behind large-scale GPU infrastructure: lifecycle visibility, deployment risk detection, and operational intelligence across a global data center footprint.
+
+A decade of applied ML across the full arc: classical modeling and anomaly detection that scaled weekly claims processing from thousands to millions of transactions; deep learning text classification deployed at 95% accuracy; and LLMs in production, where I fine-tuned and deployed domain-specific models using PEFT/LoRA, RAG, and LangChain, cutting document turnaround from hours to minutes and lifting team productivity 60%.
+
+I also own the unglamorous half: batch and streaming pipelines, model deployment, and migrating production GenAI workflows across cloud platforms under security and compliance constraints. Models that never ship don't count.
 
 ## Education
 
@@ -9,7 +17,10 @@ Bachelor's Computer Science (Specialization in Business Analytics & Optimization
 
 ## Work Experience
 **Senior Data Scientist @ Oracle (_Mar 2026 - Present_)**
-- Oracle AI at OCI.
+- Lead analytics for GPU deployments across Oracle's global data center footprint and hyperscaler environments, spanning New Product Ingestion through fleet lifecycle and infrastructure readiness.
+- Develop analytical frameworks to surface lifecycle bottlenecks and delivery risks across GPU deployment workflows, enabling intervention before schedule slips.
+- Define scalable lifecycle KPIs and operational intelligence to track GPU fleets across Oracle Data Centers, partnering with infrastructure and capacity teams to standardize measurement.
+- Establish data observability across production pipelines through embedded ETL controls and telemetry instrumentation, enabling automated alerting on freshness, volume, and quality anomalies ahead of downstream consumption.
 
 **Data Scientist - Generative AI @ TELUS Health (_Apr 2024 - Feb 2026_)**
 - Leveraged Generative AI to process policies, medical records, and doctor notes, enabling rapid drafting of workplace injury claims for a Canadian province, reducing fraudulent claims and cutting processing time from hours to minutes.
